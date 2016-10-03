@@ -1,0 +1,117 @@
+/*
+ * Start Bootstrap - Full (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+.navbar-fixed-top{
+	background-color: rgb(21,13,15);
+	color: rgb(191,167,157);
+}
+
+body {
+    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    min-width: 300px; 
+}
+
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.full {
+	background: url('http://thetwopines.com/wp-content/uploads/2016/01/LEATHERPIECES.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding-top: 10px;  
+}
+
+.text-center{
+	font-size: 30px;
+	padding-top: 150px;
+	font-family: 'Homemade Apple', cursive; 
+
+	color: black;
+	text-shadow: 2px 3px 0.4px rgb(191,167,157);	
+}
+
+.text-center h1 {
+	
+}
+
+.text-center p{
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.presentation{
+	background: url('http://static.facegfx.com/2012/brown-stripe-texture-background-06-hd-pictures_558734763.jpg');
+	background-color: rgb(83, 63, 52);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	color: rgb(191,167,157);
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.presentation h1{
+	font-size: 40px;
+	margin-top: 0px;
+	color: rgb(47,18,2);
+	text-shadow: 2px 3px 0.4px rgb(191,167,157);
+}
+
+.presentation h2{
+	font-size: 25px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.presentation p{
+	margin-bottom: 0px;
+	font-size: 16px;
+	font-style: italic;
+}
+
+
+.button{
+	button: url("http://www.supportduweb.com/");
+}
+
+.shoehorn{
+	margin-top: 200px;
+	margin-bottom: 200px;
+	height: auto;
+}
+
+.bootjack{
+	margin-top: 200px;
+	margin-bottom: 200px;
+	height: auto;
+}
+
+.texte-slide {
+	font-size: 12px;
+}
+
+.titre-slide {
+	font-size: 16px;
+}
+
+.titre-slide {
+	font-size: 30px;
+	font-family: 'Arbutus Slab', serif;
+}
+
+.texte-slide {
+	font-size: 30px;
+	font-family: 'Arbutus Slab', serif;
+	/* color: white; text-shadow: black 0.2em 0.2em 0.1em--> */
+
+}
+
+
+
+
