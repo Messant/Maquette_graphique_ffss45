@@ -10,7 +10,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/full.css" rel="stylesheet">
     <link href="css/half-slider.css" rel="stylesheet">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.js"></script>
+
 
 </head>
