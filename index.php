@@ -1,9 +1,9 @@
 <?php
     include 'head.php';
-
     include 'header.php';
-?>
-                    </div>
+    include 'presentation.php';
+
+   ?>                 </div>
                 </div>
 
         </body>
