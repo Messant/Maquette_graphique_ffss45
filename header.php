@@ -1,6 +1,22 @@
 <body>
-<nav class="navbar navbar-default navbar-fixed ">
-    <div class="container">
+<div class="header">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="identity">
+                    <img class="img-responsive" src="" alt="image_identité">
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="logo">
+                            <img class="img-responsive" src="" alt="image_logo">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-default navbar-static">
         <div class="navbar-header">
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -10,7 +26,7 @@
             </button>
         </div>
         <div class="collapse navbar-collapse js-navbar-collapse">
-            <ul class="nav nav-pills nav-justified">
+            <ul class="nav navbar-nav">
                 <li class="dropdown dropdown-large">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Particulers <b class="caret"></b></a>
                     <ul class="dropdown-menu dropdown-menu-large row">
@@ -108,11 +124,44 @@
                         </li>
                     </ul>
                 </li>
-                <li><a href="#">Contact</a>
+                <li class="dropdown dropdown-large">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
+                    <ul class="dropdown-menu dropdown-menu-large row">
+                        <li class="col-sm-3">
+                            <ul>
+                                <li class="dropdown-header">Glyphicons</li>
+                                <li><a href="#">Available glyphs</a></li>
+                                <li class="disabled"><a href="#">How to use</a></li>
+                                <li><a href="#">Examples</a></li>
+                                <li class="divider"></li>
+                                <li class="dropdown-header">Dropdowns</li>
+                                <li><a href="#">Example</a></li>
+                                <li><a href="#">Aligninment options</a></li>
+                                <li><a href="#">Headers</a></li>
+                                <li><a href="#">Disabled menu items</a></li>
+                            </ul>
+                        </li>
+                    </ul>
                 </li>
-                <li><a href="#">Rejoignez-nous</a>
+                <li class="dropdown dropdown-large">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Rejoignez-nous <b class="caret"></b></a>
+                    <ul class="dropdown-menu dropdown-menu-large row">
+                        <li class="col-sm-3">
+                            <ul>
+                                <li class="dropdown-header">Glyphicons</li>
+                                <li><a href="#">Available glyphs</a></li>
+                                <li class="disabled"><a href="#">How to use</a></li>
+                                <li><a href="#">Examples</a></li>
+                                <li class="divider"></li>
+                                <li class="dropdown-header">Dropdowns</li>
+                                <li><a href="#">Example</a></li>
+                                <li><a href="#">Aligninment options</a></li>
+                                <li><a href="#">Headers</a></li>
+                                <li><a href="#">Disabled menu items</a></li>
+                            </ul>
+                        </li>
+                    </ul>
                 </li>
 
         </div><!-- /.nav-collapse -->
-</nav>
-</body>
+    </nav>
