@@ -4,6 +4,7 @@
     include 'navbar.php';
     include 'presentation.php';
     include 'tuiles.php';
+    include 'carousel.php';
 
    ?>                 </div>
                 </div>
