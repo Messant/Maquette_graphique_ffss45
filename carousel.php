@@ -1,6 +1,6 @@
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-12" id="carousel">
+    <div class="row" id="carousel">
+        <div class="col-lg-12 col-md-12 hidden-sm hidden-xs" id="carousel">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
@@ -14,12 +14,17 @@
                     <div class="item active">
                         <img src="Images/test1.png" alt="" class="img-responsive">
                         <div class="carousel-caption">
+                            <h3>Titre de la News</h3>
+                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
+
 
                         </div>
                     </div>
                     <div class="item">
                         <img src="Images/IMG_0234.jpg" alt="" class="img-responsive">
                         <div class="carousel-caption">
+                            <h3>Titre de la News</h3>
+                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
 
                         </div>
                     </div>
@@ -27,6 +32,9 @@
                     <div class="item">
                         <img src="Images/test2.png" alt="" class="img-responsive">
                         <div class="carousel-caption">
+                            <h3>Titre de la News</h3>
+                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
+
 
                         </div>
                     </div>
@@ -43,6 +51,15 @@
                     <span class="sr-only">Next</span>
                 </a>
             </div>
+        </div>
+
+        <div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+            <h3>Titre de la News</h3>
+            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
+            <h3>Titre de la News</h3>
+            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
+            <h3>Titre de la News</h3>
+            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
         </div>
     </div>
 
