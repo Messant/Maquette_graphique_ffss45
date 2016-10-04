@@ -5,6 +5,7 @@
     include 'presentation.php';
     include 'tuiles.php';
     include 'carousel.php';
+    include 'formulaire.php';
 
    ?>                 </div>
                 </div>
