@@ -1,3 +1,21 @@
 .carousel-caption{
     background-color: rgba(224, 222, 218, 0.5);
+    color: black;
+}
+
+.btn1 {
+    background-color: #FDCC01;
+}
+
+.btn2 {
+    background-color: #19A8D4;
+}
+
+.btn3 {
+    background-color: #D11B42;
+}
+
+.btn-block{
+    height: 300px;
+    font-size: 22px;
 }
