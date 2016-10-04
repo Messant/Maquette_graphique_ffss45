@@ -1,13 +1,13 @@
  <div class="container-fluid">
     <div class="row row-centered">
-        <div class="col-xs-6 col-md-4 col-centered">
-            <button type="button" class="btn btn-block style="background-color:orange;height:200px;">Espace Particuliers</button>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <button type="button" class="btn1 btn-block">Espace Particuliers</button>
         </div>
-        <div class="col-xs-6 col-md-4 col-centered">
-            <button type="button" class="btn btn-block">Espace Professionnels</button>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <button type="button" class="btn2 btn-block">Espace Professionnels</button>
         </div>
-        <div class="col-xs-6 col-md-4 col-centered">
-            <button type="button" class="btn btn-block">Evènements</button>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <button type="button" class="btn3 btn-block">Poste de secours</button>
         </div>
     </div>
  </div>

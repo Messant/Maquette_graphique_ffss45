@@ -1,6 +1,6 @@
 .carousel-caption{
-    background-color: rgba(224, 222, 218, 0.5);
-    color: black;
+    background: rgba(0,0,0,.45);
+    backdrop-filter: grayscale(1) contrast(3) blur(1px);
 }
 
 .btn1 {
@@ -15,7 +15,18 @@
     background-color: #D11B42;
 }
 
-.btn-block{
-    height: 300px;
+.btn-block {
+    height: 350px;
     font-size: 22px;
+    color: white;
+}
+
+.navbar-nav{
+   font-size: 20px;
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
 }
