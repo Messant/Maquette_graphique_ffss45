@@ -20,6 +20,7 @@
                     </div>
                     <div class="item">
                         <img src="Images/test5.png" alt="" class="img-responsive center-block">
+
                         <div class="carousel-caption">
                             <h3>Titre de la News</h3>
                             <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
@@ -28,6 +29,7 @@
                             </p>
                             <a href="#" class="btn btn-default btn-sm active" role="button">En savoir plus</a>
                         </div>
+
                     </div>
 
                     <div class="item">
