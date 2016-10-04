@@ -1,12 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: wilder4
- * Date: 04/10/16
- * Time: 10:12
- *
- */
-?>
+
 <nav class="navbar navbar-default navbar-fixed">
         <div class="navbar-header">
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
