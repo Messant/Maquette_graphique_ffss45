@@ -2,12 +2,7 @@
     <div class="row">
         <div class="col-lg-12 col-md-12 hidden-sm hidden-xs" id="carousel">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                <!-- Indicators -->
-                <ol class="carousel-indicators">
-                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                </ol>
+
 
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
@@ -15,17 +10,23 @@
                         <img src="Images/test4.png" alt="" class="img-responsive center-block">
                         <div class="carousel-caption">
                             <h3>Titre de la News</h3>
-                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
-
-
+                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                                Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                                Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                            </p>
+                            <a href="#" class="btn btn-default btn-sm active" role="button">En savoir plus</a>
                         </div>
+
                     </div>
                     <div class="item">
                         <img src="Images/test5.png" alt="" class="img-responsive center-block">
                         <div class="carousel-caption">
                             <h3>Titre de la News</h3>
-                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
-
+                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                            Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                            Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                            </p>
+                            <a href="#" class="btn btn-default btn-sm active" role="button">En savoir plus</a>
                         </div>
                     </div>
 
@@ -33,9 +34,11 @@
                         <img src="Images/test6.png" alt="" class="img-responsive center-block">
                         <div class="carousel-caption">
                             <h3>Titre de la News</h3>
-                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas</p>
-
-
+                            <p>Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                                Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                                Esse ut aut vitae quo voluptas ea odio. Laborum dolorem tempora facilis quas
+                            </p>
+                            <a href="#" class="btn btn-default btn-sm active" role="button">En savoir plus</a>
                         </div>
                     </div>
 
@@ -63,4 +66,4 @@
         </div>
     </div>
 
-</div>
+    </div>
