@@ -5,18 +5,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 .row {
-    
 	width: auto; 
 	height: auto;
 	margin-top: 0;
 	margin-right:auto;
 	margin-bottom: 50px;
-
-
 }
 
 .identity {
-
 text-align: center;
 margin-right:1px;
 width: auto; 
@@ -24,23 +20,8 @@ width: auto;
 	margin-top: 0;
 	margin-right:auto;
 	margin-bottom: 50px;
-
-
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 .carousel-caption{
     background: rgba(0,0,0,.45);
     backdrop-filter: grayscale(1) contrast(3) blur(1px);
@@ -62,6 +43,8 @@ width: auto;
     height: 350px;
     font-size: 22px;
     color: white;
+    box-shadow: 0 0 30px black;
+    padding:0 15px 0 15px;
 }
 
 .navbar-nav{
@@ -73,4 +56,3 @@ width: auto;
 .navbar .navbar-collapse {
     text-align: center;
 }
-
