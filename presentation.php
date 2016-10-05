@@ -17,7 +17,7 @@
 
         <!--Image de la partie droite-->
         <div class="col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-offset-1 col-sm-5 hidden-xs">
-            <img src="Images/Affiche Salon des Maires-01.png" alt="" class="img-responsive">
+            <img src="Images/AfficheSalondes Maires-01.png" alt="" class="img-responsive">
         </div>
     </div>
 </div>
