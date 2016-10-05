@@ -1,3 +1,4 @@
+
 /*
  * Start Bootstrap - Full (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
@@ -38,4 +39,38 @@ width: auto;
 
 
 
+
+=======
+.carousel-caption{
+    background: rgba(0,0,0,.45);
+    backdrop-filter: grayscale(1) contrast(3) blur(1px);
+}
+
+.btn1 {
+    background-color: #FDCC01;
+}
+
+.btn2 {
+    background-color: #19A8D4;
+}
+
+.btn3 {
+    background-color: #D11B42;
+}
+
+.btn-block {
+    height: 350px;
+    font-size: 22px;
+    color: white;
+}
+
+.navbar-nav{
+   font-size: 20px;
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
 
