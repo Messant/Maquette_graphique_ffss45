@@ -18,7 +18,6 @@
 .identity {
 
 text-align: center;
-margin-right:1px;
 width: auto; 
 	height: auto;
 	margin-top: 0;
@@ -40,7 +39,7 @@ width: auto;
 
 
 
-=======
+
 .carousel-caption{
     background: rgba(0,0,0,.45);
     backdrop-filter: grayscale(1) contrast(3) blur(1px);
